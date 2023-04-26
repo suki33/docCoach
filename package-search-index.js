@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.example.coach"},{"l":"com.example.coach.controleur"},{"l":"com.example.coach.modele"},{"l":"com.example.coach.outils"},{"l":"com.example.coach.vue"}]
